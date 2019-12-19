@@ -21,10 +21,15 @@
                         Pip install tensorflow==2.0.0 # or tensorflow-gpu 
                         
       3）OpenCV:  Most used computer vision library.Highly efficient.Facilitates real-time image processing.
+      
          imutils:  My collection of helper functions and utilities to make working with Open CV easier.
+         
          Numpy --> TensorFlow2.0.0 : open source machine learning library. Often used for neural networks, deep learning, and as a computational backend for Keras.
+         
          Scikit-learn : Machine learning in Python. Simple. Efficient.Beautiful, easy to use API.
+         
          Scikit-image : Collection of algorithms for image processing. Contains some algorithm implementations that Open CV does not.
+         
          Matplotlib :  The de facto plotting package for python.
 
      
