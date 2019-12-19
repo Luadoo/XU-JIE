@@ -20,8 +20,9 @@
                         Pip install matplotlib
                         Pip install tensorflow==2.0.0 # or tensorflow-gpu 
                         
-      3）OpenCV:  Most used computer vision library.Highly efficient.Facilitates real-time image processing.
-      
+      3）
+         OpenCV:  Most used computer vision library.Highly efficient.Facilitates real-time image processing.
+ 
          imutils:  My collection of helper functions and utilities to make working with Open CV easier.
          
          Numpy --> TensorFlow2.0.0 : open source machine learning library. Often used for neural networks, deep learning, and as a computational backend for Keras.
